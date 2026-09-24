@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "23c063fad50708c0682dc0a3",
+  "owner": "vcenct",
+  "repo": "page-4bf9387a828a05e8e05d3d21",
+  "title": "菲菲云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4bf9387a828a05e8e05d3d21",
+      "a": "菲菲云",
+      "b": "2027最新官网",
+      "entity": "菲菲云",
+      "brand": "菲菲云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba66cfc1ef5cb159e1d7cd13558e80c2dd4b908ad2475b190e67eb85ee4b9a5f",
+      "content": {
+        "primary_entity": "菲菲云",
+        "keyword1": "菲菲云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备与系统选择订阅客户端，并参照对应文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "选好套餐并按客户端文档完成订阅配置，即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选择起步",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按月或按年付费灵活选择。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并加入IPLC专线游戏加速；团队版每月1000GB流量、支持20台设备，配备VIP高带宽节点与专属客户经理。根据日常设备数量和流量需求挑选合适档位即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个维度对比套餐，快速定位适合的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月用量区间挑选。",
+          "AI_FEATURE_TEXT_2": "3台、5台、20台设备上限逐档提升，按常用设备数量匹配。",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速，团队版含VIP高带宽节点，按线路需求选择。",
+          "AI_FEATURE_TITLE_1": "按流量档位",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按线路类型",
+          "AI_GUIDE_INTRO": "从挑套餐到完成订阅配置，三步开始使用菲菲云。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "菲菲云提供基础版、旗舰版与团队版三档加速订阅，覆盖不同流量与设备需求。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备；团队版每月1000GB流量、支持20台设备。可按月付费，也可按年付享受优惠价格。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖日常与团队需求",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月300GB，支持5台设备",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB，支持20台设备",
+          "AI_PLANS_INTRO": "基础版¥15/月、按年付¥150/年；旗舰版¥35/月、按年付¥350/年；团队版¥85/月、按年付¥850/年。按流量与设备上限挑选合适档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，对比基础版、旗舰版与团队版的价格和权益。",
+          "AI_STEP_TEXT_2": "确认所选档位的设备数量上限与线路类型，检查是否符合自己的使用场景。",
+          "AI_STEP_TEXT_3": "按设备类型选择对应客户端，参照客户端文档导入订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "菲菲云套餐导航",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "菲菲云套餐可以月付和年付吗？",
+          "AI_FAQ_ANSWER_1": "可以。基础版月付15元，年付150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。",
+          "AI_FAQ_QUESTION_2": "同一账号最多能在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，按所选套餐限制。",
+          "AI_FAQ_QUESTION_3": "订阅链接如何在客户端导入？",
+          "AI_FAQ_ANSWER_3": "复制订阅地址，打开对应客户端找到订阅或配置导入入口，粘贴后保存并更新节点列表即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些功能？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量提升至300GB，设备数增至5台，增加全节点原生流媒体解锁和IPLC专线游戏加速优化。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量和20台设备在线，适合多人共用高带宽节点或需要企业定制路由的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ghq94i8wd9xgu3fvt7fl6a.com",
+    "host": "xn--ghq94i8wd9xgu3fvt7fl6a.com"
+  },
+  "file_hashes": {
+    "index.html": "55d594d35e2cd9c6a6df4a4df13f7c812f874305edf181c00654673f61f09edc",
+    "sitemap.xml": "ba5f4d90e8e01fbb3fff9aa9e063fe202b0e093149dd636b50e7374901b78aa2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb7c43d6a2ffa70d5ac36f583e29b1ad8a3ba1f3a22a697f240acc954b9cb5e2",
+    "robots.txt": "d7c2c569157be8ac5d6a4d339718b5f70b1baa535bfeaefc7de5ef5b58b4fea8",
+    "5664340204fa7096aab5b4640b6ec6af.txt": "422996de644882f93083006cb8cd473e95addf5f5a2fb17f91e0a873e68e4f07"
+  },
+  "revision": "222f3595478098bbf3ef2fa2f72afdad3af6888412249c71d482d98054372aaa"
+}
